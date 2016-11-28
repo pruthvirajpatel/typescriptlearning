@@ -1,0 +1,26 @@
+{
+  "name": "typescriptlearning",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "scripts": {
+    "start": "tsc app/script.ts | lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruthvirajpatel/typescriptlearning.git"
+  },
+  "keywords": [
+    "Typescript",
+    "learning"
+  ],
+  "author": "pruthvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruthvirajpatel/typescriptlearning/issues"
+  },
+  "homepage": "https://github.com/pruthvirajpatel/typescriptlearning#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2",
+    "typescript": "^2.0.10"
+  }
+}
